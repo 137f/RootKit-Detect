@@ -20,7 +20,7 @@ Este projeto foi criado para inspecionar e comparar as seções de memória do N
 
 * Testado contra rootkits em modo usuário publicamente disponíveis:
 
-  * [r77](https://bytecode77.com/) 🔍
+  * [r77-bytecode](https://bytecode77.com/) 🔍
 
 ---
 
