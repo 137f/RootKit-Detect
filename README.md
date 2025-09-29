@@ -22,7 +22,6 @@ Este projeto foi criado para inspecionar e comparar as seções de memória do N
 
   * [r77-bytecode](https://bytecode77.com/) 🔍
 
----
 
 **Nota:** Este projeto é voltado para fins de análise de segurança e pesquisa. Utilize-o de forma ética e em ambientes controlados (máquinas de laboratório, VMs isoladas, etc.). ⚖️
 
