@@ -21,7 +21,6 @@ Este projeto foi criado para inspecionar e comparar as seções de memória do N
 * Testado contra rootkits em modo usuário publicamente disponíveis:
 
   * [r77](https://bytecode77.com/) 🔍
-  * [Meu próprio projeto de estudo](https://github.com/forentfraps/rootkit-userland) — não se replica, porém o scanner detecta processos alterados ✅
 
 ---
 
